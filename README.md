@@ -23,7 +23,7 @@
 
 ### Getting Started:
 
-1. **Clone the Repository**: `git clone [repository-link]`
+1. **Clone the Repository**: `git clone [https://github.com/UniLife-Projects/Bankist-Login.git]`
 2. **Launch the Application**: Open `index.html` in your browser.
 
 ### Sample Accounts for Demonstration:
