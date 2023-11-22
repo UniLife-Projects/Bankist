@@ -1,6 +1,6 @@
 # [The-Bankist](https://uche-jordy-bankist-login.netlify.app/)
 
-#### Explore our [Demo](https://uche-jordy-game-of-pig.netlify.app/)
+#### Explore our [Demo](https://uche-jordy-bankist-login.netlify.app/)
 
 ## Overview
 
