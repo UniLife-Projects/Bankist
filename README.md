@@ -1,8 +1,8 @@
-# [The-Bankist](https://uche-jordy-bankist-login.netlify.app/)
+# [The-Bankist 💰](https://uche-jordy-bankist-login.netlify.app/)
 
 #### Explore our [Demo](https://uche-jordy-bankist-login.netlify.app/)
 
-## Overview
+## Overview 💸
 
 **Bankist** is a sophisticated web-based financial tool designed to empower users with seamless money management capabilities. This application merges intuitive design with robust security measures to provide a premium personal banking experience.
 
