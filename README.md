@@ -1,6 +1,6 @@
-# [The-Bankist 💰](https://uche-jordy-bankist-dom.netlify.app/)
+# [The-Bankist: Enhance your Finances 🤑](https://uche-jordy-bankist-dom.netlify.app/)
 
-#### Explore our [Demo](https://uche-jordy-bankist-login.netlify.app/)
+#### Explore our [Demo](https://uche-jordy-bankist-dom.netlify.app/)
 
 ## Overview 💸
 
@@ -23,7 +23,7 @@
 
 ### Getting Started:
 
-1. **Clone the Repository**: `git clone [https://github.com/UniLife-Projects/Bankist-Login.git]`
+1. **Clone the Repository**: `git clone https://github.com/UniLife-Projects/Bankist-DOM.git`
 2. **Launch the Application**: Open `index.html` in your browser.
 
 ### Sample Accounts for Demonstration:
